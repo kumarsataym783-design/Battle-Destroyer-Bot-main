@@ -37,7 +37,7 @@ BASE_URL = os.getenv('BASE_URL')
 ATTACK_MODE = os.getenv('ATTACK_MODE', 'api')  # 'api' or 'local'
 
 # Default attack duration limit (in seconds)
-DEFAULT_ATTACK_TIME_LIMIT = 120  # 2 minutes default
+DEFAULT_ATTACK_TIME_LIMIT = 300  # 5 minutes default
 
 async def help_command(update: Update, context: CallbackContext):
     user_id = update.effective_user.id
