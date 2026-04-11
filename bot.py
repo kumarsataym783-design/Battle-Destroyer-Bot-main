@@ -109,7 +109,7 @@ async def start(update: Update, context: CallbackContext):
     user_time_limit = await get_user_attack_time_limit(user_id)
     
     message = (
-        f"*🔥 Welcome to @RAJOWNERX1 world 🔥*\n\n"
+        f"*🔥 Welcome to NOVA DDOS FREEZ world 🔥*\n\n"
         f"*Use /attack <ip> <port> <duration>*\n"
         f"*Your max attack duration: {user_time_limit} seconds*\n"
         f"*Let the war begin! ⚔️💥*"
