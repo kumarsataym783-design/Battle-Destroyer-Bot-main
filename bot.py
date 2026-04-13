@@ -33,7 +33,7 @@ logger = logging.getLogger(__name__)
 
 # ================= CONFIGURATION =================
 BOT_TOKEN = "8034642539:AAEKyfqriazaz-FrR80RQ0bYab-U-lMFOgo"  # Replace with your bot token
-ADMIN_USER_ID = admin-id
+ADMIN_USER_ID = 8169131537
 OWNER_USERNAME = "@BOBBY859"
 
 # Your Flask API Configuration
