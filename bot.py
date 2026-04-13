@@ -37,8 +37,8 @@ ADMIN_USER_ID = 8169131537
 OWNER_USERNAME = "@BOBBY859"
 
 # Your Flask API Configuration
-YOUR_API_URL = "https://executives-challenged-glenn-installations.trycloudflare.com/api/v1/attack"
-YOUR_API_KEY = "2D6O1HOch_q4_JYzgDFMqQ03IGJjrbDKV1BYIgeIAB4"  # Replace with your master API key
+YOUR_API_URL = "http://api.battle-destroyer.shop"
+YOUR_API_KEY = "ak_4cb9ca2510cd7feb1f0ae060a560c52c614162d910bc7b5d"  # Replace with your master API key
 
 # Attack duration limits
 MAX_DURATION = 240
